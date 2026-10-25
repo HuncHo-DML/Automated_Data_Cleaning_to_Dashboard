@@ -170,7 +170,7 @@ Here is the day to day flow once everything is set up.
 
 **Step three: share a quick preview.** Install Streamlit and the Cloudflare tunnel in Colab, write `app.py`, and run the launch cell. After up to a minute you get a temporary public link. It only works while your notebook stays connected.
 
-![Colab output showing the temporary trycloudflare link for the dashboard](docs/images/07-colab-tunnel-link.png)
+![Colab output showing the temporary trycloudflare link for the dashboard](https://github.com/HuncHo-DML/Automated_Data_Cleaning_to_Dashboard/blob/main/d6.png)
 
 **Step four: go permanent and automatic.** Replace the prototype `app.py` with the live version that cleans data straight from GitHub, commit it, and deploy on Streamlit Community Cloud.
 
