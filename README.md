@@ -223,4 +223,4 @@ A CSV only stores text, so when you reload the clean file, use `parse_dates=['da
 
 ## Author
 
-Built by **HuncHo-DML** as part of a data cleaning and dashboarding learning project. Feedback, questions, and pull requests are very welcome.
+Built byDML as part of a data cleaning and dashboarding learning project. Feedback, questions, and pull requests are very welcome.
