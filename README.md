@@ -40,7 +40,7 @@ The project walks through fixing all of it, then shows the result in an interact
 
 ## Project Structure
 
-![comprehensive project structure design](docs/images/04-pdf-report.png)
+![comprehensive project structure design](https://github.com/HuncHo-DML/Automated_Data_Cleaning_to_Dashboard/blob/main/d7.png)
 
 
 A quick tour of the important pieces:
