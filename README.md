@@ -156,7 +156,7 @@ TOKEN = userdata.get('GITHUB_TOKEN')
 
 Give the token only the `repo` scope, set a short expiry, and delete it when you are done.
 
-![GitHub repository page showing the messy CSV, clean CSV, Parquet file, app.py and requirements.txt](docs/images/06-github-repo.png)
+![GitHub repository page showing the messy CSV, clean CSV, Parquet file, app.py and requirements.txt](https://github.com/HuncHo-DML/Automated_Data_Cleaning_to_Dashboard/blob/main/d5.png)
 
 ---
 
