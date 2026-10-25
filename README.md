@@ -40,18 +40,8 @@ The project walks through fixing all of it, then shows the result in an interact
 
 ## Project Structure
 
-```
-novamart_data_cleaning/
-├── novamart_orders_messy.csv        # The raw input file (the live data source)
-├── novamart_orders_clean.csv        # Cleaned output from the Colab notebook
-├── novamart_orders_clean.parquet    # Same data, with exact dtypes preserved
-├── app.py                           # Streamlit dashboard that cleans data on the fly
-├── requirements.txt                 # Libraries Streamlit Cloud installs for you
-├── novamart_cleaning.ipynb          # Colab notebook: the 14 stage cleaning guide
-├── novamart_dashboard.ipynb         # Colab notebook: dashboard prototype
-└── docs/
-    └── images/                      # Screenshots used in this README
-```
+![comprehensive project structure design](docs/images/04-pdf-report.png)
+
 
 A quick tour of the important pieces:
 
