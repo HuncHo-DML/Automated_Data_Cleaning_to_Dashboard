@@ -100,7 +100,7 @@ An expandable panel inside the dashboard shows exactly what the cleaning step di
 
 Download the filtered clean data as a CSV, or generate a polished multi slide PDF report that includes the filters you had active, key numbers, trend charts, and the cleaning summary.
 
-![Sample page from the downloadable PDF summary report with revenue trend charts](docs/images/04-pdf-report.png)
+![Sample page from the downloadable PDF summary report with revenue trend charts](https://github.com/HuncHo-DML/Automated_Data_Cleaning_to_Dashboard/blob/main/d4.png)
 
 ---
 
