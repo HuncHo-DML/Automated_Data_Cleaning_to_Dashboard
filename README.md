@@ -76,7 +76,7 @@ Each stage has one clear goal, so you always know why you are doing something.
 13. Run final assertions and export to CSV and Parquet
 14. Write a short cleaning log for your manager or client
 
-![Output of the cleaning checks showing standardized categories and the All checks passed message](docs/images/02-sanity-checks-passed.png)
+![Output of the cleaning checks showing standardized categories and the All checks passed message](https://github.com/HuncHo-DML/Automated_Data_Cleaning_to_Dashboard/blob/main/d2.png)
 
 ### Smart handling of tricky data
 
