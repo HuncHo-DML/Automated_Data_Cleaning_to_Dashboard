@@ -14,7 +14,7 @@ The raw file has 1,051 rows and 22 columns, packed with the kind of problems rea
 
 The project walks through fixing all of it, then shows the result in an interactive dashboard with KPIs, charts, filters, and a downloadable PDF slide report.
 
-![Raw messy data loaded in Google Colab showing the first 10 rows and df.info output](Automated_Data_Cleaning_to_Dashboard/d1.png)
+![Raw messy data loaded in Google Colab showing the first 10 rows and df.info output](https://github.com/HuncHo-DML/Automated_Data_Cleaning_to_Dashboard/blob/main/d1.png)
 
 ---
 
