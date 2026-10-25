@@ -86,7 +86,7 @@ Outliers are looked at before they are removed, because a ₦450,000 laptop is n
 
 Sidebar filters for state, product category, delivery status, payment method, membership, and order date range. Five headline KPIs: revenue, orders, average order value, average rating, and delivery rate. Six charts: revenue by month, revenue by category, orders by state, revenue by payment method, orders by delivery status, and the rating distribution.
 
-![The live NovaMart Streamlit dashboard showing KPI cards, line chart, bar charts and pie chart](docs/images/03-streamlit-dashboard.png)
+![The live NovaMart Streamlit dashboard showing KPI cards, line chart, bar charts and pie chart](https://github.com/HuncHo-DML/Automated_Data_Cleaning_to_Dashboard/blob/main/d3.png)
 
 ### Live auto refresh
 
